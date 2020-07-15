@@ -1,4 +1,4 @@
-# face_detection challenge
+# face detection challenge
 
 
 ## Table of contents
